@@ -2,9 +2,8 @@
 **Physicist & C++ Software Engineer**  
 Specialized in High-Performance Computing, Computer Vision, and Native Machine Learning.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Soto-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Soto-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil-aqui](https://www.linkedin.com/in/carlos-soto-gallego-021742366/))
 [![Email](https://img.shields.io/badge/Email-csotog98%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:csotog98@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Spain%20(Open%20to%20relocate)-grey?style=flat)](#)
 
 ---
 
