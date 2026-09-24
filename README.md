@@ -17,7 +17,7 @@ Specialized in High-Performance Computing, Computer Vision, and Native Machine L
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** C++ (C++17), Python, C#
+- **Languages:** C++, CUDA, Python, C#
 - **Performance & Systems:** Cache Locality Optimization, High-Performance Computing (HPC), Linux, CMake, Git
 - **Domains & Libraries:** OpenCV, Computer Vision, Neural Networks from scratch, Projective Geometry, Photogrammetry
 
