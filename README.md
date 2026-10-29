@@ -1,5 +1,5 @@
 # Carlos Soto Gallego 👋
-**Physicist & C++ Software Engineer**  
+**Physicist & C++ Software Developer**  
 Specialized in High-Performance Computing, Computer Vision, and Native Machine Learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Soto-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil-aqui](https://www.linkedin.com/in/carlos-soto-gallego-021742366/))
