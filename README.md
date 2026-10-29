@@ -27,10 +27,3 @@ Specialized in High-Performance Computing, Computer Vision, and Native Machine L
 
 - **[custom-nn-cpp-engine](https://github.com/csotog98/custom-nn-cpp-engine):** Lightweight ML engine built from scratch in pure C++17 with zero external dependencies. Features cache-optimized matrix operations $(i, k, j)$ and dynamic He-Xavier initialization.
 - **[Godot Engine](https://github.com/godotengine/godot):** Diagnosed and resolved native bugs within Godot's core architecture, navigating large-scale C++ codebases.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csotog98&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csotog98&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</p>
